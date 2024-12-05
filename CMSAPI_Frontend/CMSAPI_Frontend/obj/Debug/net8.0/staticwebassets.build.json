@@ -1,0 +1,698 @@
+{
+  "Version": 1,
+  "Hash": "65CvbTb7/XW79lfXNh5qgv3clzXJ8dGxn4lHxBOijHY=",
+  "Source": "CMSAPI_Frontend",
+  "BasePath": "_content/CMSAPI_Frontend",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "CMSAPI_Frontend\\wwwroot",
+      "Source": "CMSAPI_Frontend",
+      "ContentRoot": "C:\\Users\\xg47\\Documents\\Utdanning\\DTE2802\\DTE2802_Prosjekt2\\CMSAPI_Frontend\\CMSAPI_Frontend\\wwwroot\\",
+      "BasePath": "_content/CMSAPI_Frontend",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\xg47\\.nuget\\packages\\microsoft.aspnetcore.components.webassembly.authentication\\8.0.11\\staticwebassets\\AuthenticationService.js",
+      "SourceId": "Microsoft.AspNetCore.Components.WebAssembly.Authentication",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\xg47\\.nuget\\packages\\microsoft.aspnetcore.components.webassembly.authentication\\8.0.11\\staticwebassets\\",
+      "BasePath": "_content/Microsoft.AspNetCore.Components.WebAssembly.Authentication",
+      "RelativePath": "AuthenticationService.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "epbw58hwuq",
+      "Integrity": "Qlj6NGS978hjVyrYLtW5G6trKGerdW4Fwgvr2eUo/lU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\xg47\\.nuget\\packages\\microsoft.aspnetcore.components.webassembly.authentication\\8.0.11\\staticwebassets\\AuthenticationService.js"
+    },
+    {
+      "Identity": "C:\\Users\\xg47\\Documents\\Utdanning\\DTE2802\\DTE2802_Prosjekt2\\CMSAPI_Frontend\\CMSAPI_Frontend\\obj\\Debug\\net8.0\\scopedcss\\bundle\\CMSAPI_Frontend.styles.css",
+      "SourceId": "CMSAPI_Frontend",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\xg47\\Documents\\Utdanning\\DTE2802\\DTE2802_Prosjekt2\\CMSAPI_Frontend\\CMSAPI_Frontend\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+      "BasePath": "_content/CMSAPI_Frontend",
+      "RelativePath": "CMSAPI_Frontend#[.{fingerprint}]?.styles.css",
+      "AssetKind": "All",
+      "AssetMode": "CurrentProject",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ApplicationBundle",
+      "Fingerprint": "5lwqqvf3ou",
+      "Integrity": "eQ20aWrVLcRJXAdbZiTAUdtcTbIcmxNerCEME/CPxLE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\xg47\\Documents\\Utdanning\\DTE2802\\DTE2802_Prosjekt2\\CMSAPI_Frontend\\CMSAPI_Frontend\\obj\\Debug\\net8.0\\scopedcss\\bundle\\CMSAPI_Frontend.styles.css"
+    },
+    {
+      "Identity": "C:\\Users\\xg47\\Documents\\Utdanning\\DTE2802\\DTE2802_Prosjekt2\\CMSAPI_Frontend\\CMSAPI_Frontend\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\CMSAPI_Frontend.bundle.scp.css",
+      "SourceId": "CMSAPI_Frontend",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\xg47\\Documents\\Utdanning\\DTE2802\\DTE2802_Prosjekt2\\CMSAPI_Frontend\\CMSAPI_Frontend\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+      "BasePath": "_content/CMSAPI_Frontend",
+      "RelativePath": "CMSAPI_Frontend#[.{fingerprint}]!.bundle.scp.css",
+      "AssetKind": "All",
+      "AssetMode": "Reference",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ProjectBundle",
+      "Fingerprint": "5lwqqvf3ou",
+      "Integrity": "eQ20aWrVLcRJXAdbZiTAUdtcTbIcmxNerCEME/CPxLE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\xg47\\Documents\\Utdanning\\DTE2802\\DTE2802_Prosjekt2\\CMSAPI_Frontend\\CMSAPI_Frontend\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\CMSAPI_Frontend.bundle.scp.css"
+    },
+    {
+      "Identity": "C:\\Users\\xg47\\Documents\\Utdanning\\DTE2802\\DTE2802_Prosjekt2\\CMSAPI_Frontend\\CMSAPI_Frontend\\wwwroot\\app.css",
+      "SourceId": "CMSAPI_Frontend",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\xg47\\Documents\\Utdanning\\DTE2802\\DTE2802_Prosjekt2\\CMSAPI_Frontend\\CMSAPI_Frontend\\wwwroot\\",
+      "BasePath": "_content/CMSAPI_Frontend",
+      "RelativePath": "app#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "da95v2qkru",
+      "Integrity": "u9qEka1auR7E3rd3/8/j8hkQdSOYj9bRJ4nYiFDR1sE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\app.css"
+    },
+    {
+      "Identity": "C:\\Users\\xg47\\Documents\\Utdanning\\DTE2802\\DTE2802_Prosjekt2\\CMSAPI_Frontend\\CMSAPI_Frontend\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "SourceId": "CMSAPI_Frontend",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\xg47\\Documents\\Utdanning\\DTE2802\\DTE2802_Prosjekt2\\CMSAPI_Frontend\\CMSAPI_Frontend\\wwwroot\\",
+      "BasePath": "_content/CMSAPI_Frontend",
+      "RelativePath": "bootstrap/bootstrap.min#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "bpk8xqwxhs",
+      "Integrity": "z8OR40MowJ8GgK6P89Y+hiJK5+cclzFHzLhFQLL92bg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Identity": "C:\\Users\\xg47\\Documents\\Utdanning\\DTE2802\\DTE2802_Prosjekt2\\CMSAPI_Frontend\\CMSAPI_Frontend\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "SourceId": "CMSAPI_Frontend",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\xg47\\Documents\\Utdanning\\DTE2802\\DTE2802_Prosjekt2\\CMSAPI_Frontend\\CMSAPI_Frontend\\wwwroot\\",
+      "BasePath": "_content/CMSAPI_Frontend",
+      "RelativePath": "bootstrap/bootstrap.min.css#[.{fingerprint}]?.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "8inm30yfxf",
+      "Integrity": "gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Identity": "C:\\Users\\xg47\\Documents\\Utdanning\\DTE2802\\DTE2802_Prosjekt2\\CMSAPI_Frontend\\CMSAPI_Frontend\\wwwroot\\favicon.png",
+      "SourceId": "CMSAPI_Frontend",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\xg47\\Documents\\Utdanning\\DTE2802\\DTE2802_Prosjekt2\\CMSAPI_Frontend\\CMSAPI_Frontend\\wwwroot\\",
+      "BasePath": "_content/CMSAPI_Frontend",
+      "RelativePath": "favicon#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ifv42okdf2",
+      "Integrity": "4mWsDy3aHl36ZbGt8zByK7Pvd4kRUoNgTYzRnwmPHwg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\favicon.png"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "_content/Microsoft.AspNetCore.Components.WebAssembly.Authentication/AuthenticationService.js",
+      "AssetFile": "C:\\Users\\xg47\\.nuget\\packages\\microsoft.aspnetcore.components.webassembly.authentication\\8.0.11\\staticwebassets\\AuthenticationService.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "291499"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Qlj6NGS978hjVyrYLtW5G6trKGerdW4Fwgvr2eUo/lU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 21 Oct 2024 23:58:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Qlj6NGS978hjVyrYLtW5G6trKGerdW4Fwgvr2eUo/lU="
+        }
+      ]
+    },
+    {
+      "Route": "app.css",
+      "AssetFile": "C:\\Users\\xg47\\Documents\\Utdanning\\DTE2802\\DTE2802_Prosjekt2\\CMSAPI_Frontend\\CMSAPI_Frontend\\wwwroot\\app.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2591"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"u9qEka1auR7E3rd3/8/j8hkQdSOYj9bRJ4nYiFDR1sE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 26 Nov 2024 14:09:33 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-u9qEka1auR7E3rd3/8/j8hkQdSOYj9bRJ4nYiFDR1sE="
+        }
+      ]
+    },
+    {
+      "Route": "app.da95v2qkru.css",
+      "AssetFile": "C:\\Users\\xg47\\Documents\\Utdanning\\DTE2802\\DTE2802_Prosjekt2\\CMSAPI_Frontend\\CMSAPI_Frontend\\wwwroot\\app.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2591"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"u9qEka1auR7E3rd3/8/j8hkQdSOYj9bRJ4nYiFDR1sE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 26 Nov 2024 14:09:33 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "da95v2qkru"
+        },
+        {
+          "Name": "label",
+          "Value": "app.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-u9qEka1auR7E3rd3/8/j8hkQdSOYj9bRJ4nYiFDR1sE="
+        }
+      ]
+    },
+    {
+      "Route": "bootstrap/bootstrap.min.bpk8xqwxhs.css",
+      "AssetFile": "C:\\Users\\xg47\\Documents\\Utdanning\\DTE2802\\DTE2802_Prosjekt2\\CMSAPI_Frontend\\CMSAPI_Frontend\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "162720"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"z8OR40MowJ8GgK6P89Y+hiJK5+cclzFHzLhFQLL92bg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 26 Nov 2024 14:09:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "bpk8xqwxhs"
+        },
+        {
+          "Name": "label",
+          "Value": "bootstrap/bootstrap.min.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-z8OR40MowJ8GgK6P89Y+hiJK5+cclzFHzLhFQLL92bg="
+        }
+      ]
+    },
+    {
+      "Route": "bootstrap/bootstrap.min.css",
+      "AssetFile": "C:\\Users\\xg47\\Documents\\Utdanning\\DTE2802\\DTE2802_Prosjekt2\\CMSAPI_Frontend\\CMSAPI_Frontend\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "162720"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"z8OR40MowJ8GgK6P89Y+hiJK5+cclzFHzLhFQLL92bg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 26 Nov 2024 14:09:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-z8OR40MowJ8GgK6P89Y+hiJK5+cclzFHzLhFQLL92bg="
+        }
+      ]
+    },
+    {
+      "Route": "bootstrap/bootstrap.min.css.8inm30yfxf.map",
+      "AssetFile": "C:\\Users\\xg47\\Documents\\Utdanning\\DTE2802\\DTE2802_Prosjekt2\\CMSAPI_Frontend\\CMSAPI_Frontend\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "449111"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 26 Nov 2024 14:09:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8inm30yfxf"
+        },
+        {
+          "Name": "label",
+          "Value": "bootstrap/bootstrap.min.css.map"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ="
+        }
+      ]
+    },
+    {
+      "Route": "bootstrap/bootstrap.min.css.map",
+      "AssetFile": "C:\\Users\\xg47\\Documents\\Utdanning\\DTE2802\\DTE2802_Prosjekt2\\CMSAPI_Frontend\\CMSAPI_Frontend\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "449111"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 26 Nov 2024 14:09:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ="
+        }
+      ]
+    },
+    {
+      "Route": "CMSAPI_Frontend.5lwqqvf3ou.bundle.scp.css",
+      "AssetFile": "C:\\Users\\xg47\\Documents\\Utdanning\\DTE2802\\DTE2802_Prosjekt2\\CMSAPI_Frontend\\CMSAPI_Frontend\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\CMSAPI_Frontend.bundle.scp.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6145"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"eQ20aWrVLcRJXAdbZiTAUdtcTbIcmxNerCEME/CPxLE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 05 Dec 2024 20:42:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "5lwqqvf3ou"
+        },
+        {
+          "Name": "label",
+          "Value": "CMSAPI_Frontend.bundle.scp.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-eQ20aWrVLcRJXAdbZiTAUdtcTbIcmxNerCEME/CPxLE="
+        }
+      ]
+    },
+    {
+      "Route": "CMSAPI_Frontend.5lwqqvf3ou.styles.css",
+      "AssetFile": "C:\\Users\\xg47\\Documents\\Utdanning\\DTE2802\\DTE2802_Prosjekt2\\CMSAPI_Frontend\\CMSAPI_Frontend\\obj\\Debug\\net8.0\\scopedcss\\bundle\\CMSAPI_Frontend.styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6145"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"eQ20aWrVLcRJXAdbZiTAUdtcTbIcmxNerCEME/CPxLE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 05 Dec 2024 20:42:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "5lwqqvf3ou"
+        },
+        {
+          "Name": "label",
+          "Value": "CMSAPI_Frontend.styles.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-eQ20aWrVLcRJXAdbZiTAUdtcTbIcmxNerCEME/CPxLE="
+        }
+      ]
+    },
+    {
+      "Route": "CMSAPI_Frontend.bundle.scp.css",
+      "AssetFile": "C:\\Users\\xg47\\Documents\\Utdanning\\DTE2802\\DTE2802_Prosjekt2\\CMSAPI_Frontend\\CMSAPI_Frontend\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\CMSAPI_Frontend.bundle.scp.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6145"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"eQ20aWrVLcRJXAdbZiTAUdtcTbIcmxNerCEME/CPxLE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 05 Dec 2024 20:42:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-eQ20aWrVLcRJXAdbZiTAUdtcTbIcmxNerCEME/CPxLE="
+        }
+      ]
+    },
+    {
+      "Route": "CMSAPI_Frontend.styles.css",
+      "AssetFile": "C:\\Users\\xg47\\Documents\\Utdanning\\DTE2802\\DTE2802_Prosjekt2\\CMSAPI_Frontend\\CMSAPI_Frontend\\obj\\Debug\\net8.0\\scopedcss\\bundle\\CMSAPI_Frontend.styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6145"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"eQ20aWrVLcRJXAdbZiTAUdtcTbIcmxNerCEME/CPxLE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 05 Dec 2024 20:42:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-eQ20aWrVLcRJXAdbZiTAUdtcTbIcmxNerCEME/CPxLE="
+        }
+      ]
+    },
+    {
+      "Route": "favicon.ifv42okdf2.png",
+      "AssetFile": "C:\\Users\\xg47\\Documents\\Utdanning\\DTE2802\\DTE2802_Prosjekt2\\CMSAPI_Frontend\\CMSAPI_Frontend\\wwwroot\\favicon.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1148"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4mWsDy3aHl36ZbGt8zByK7Pvd4kRUoNgTYzRnwmPHwg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 26 Nov 2024 14:09:33 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ifv42okdf2"
+        },
+        {
+          "Name": "label",
+          "Value": "favicon.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-4mWsDy3aHl36ZbGt8zByK7Pvd4kRUoNgTYzRnwmPHwg="
+        }
+      ]
+    },
+    {
+      "Route": "favicon.png",
+      "AssetFile": "C:\\Users\\xg47\\Documents\\Utdanning\\DTE2802\\DTE2802_Prosjekt2\\CMSAPI_Frontend\\CMSAPI_Frontend\\wwwroot\\favicon.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1148"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4mWsDy3aHl36ZbGt8zByK7Pvd4kRUoNgTYzRnwmPHwg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 26 Nov 2024 14:09:33 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-4mWsDy3aHl36ZbGt8zByK7Pvd4kRUoNgTYzRnwmPHwg="
+        }
+      ]
+    }
+  ]
+}
