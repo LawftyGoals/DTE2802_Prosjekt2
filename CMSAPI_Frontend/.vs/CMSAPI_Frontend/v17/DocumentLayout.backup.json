@@ -7,24 +7,32 @@
       "RelativeMoniker": "D:0:0:{70188990-A188-4E02-B152-6C9C5E197128}|CMSAPI_Frontend\\CMSAPI_Frontend.csproj|solutionrelative:cmsapi_frontend\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{70188990-A188-4E02-B152-6C9C5E197128}|CMSAPI_Frontend\\CMSAPI_Frontend.csproj|c:\\users\\xg47\\documents\\utdanning\\dte2802\\dte2802_prosjekt2\\cmsapi_frontend\\cmsapi_frontend\\components\\pages\\home.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{70188990-A188-4E02-B152-6C9C5E197128}|CMSAPI_Frontend\\CMSAPI_Frontend.csproj|solutionrelative:cmsapi_frontend\\components\\pages\\home.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+      "AbsoluteMoniker": "D:0:0:{70188990-A188-4E02-B152-6C9C5E197128}|CMSAPI_Frontend\\CMSAPI_Frontend.csproj|c:\\users\\xg47\\documents\\utdanning\\dte2802\\dte2802_prosjekt2\\cmsapi_frontend\\cmsapi_frontend\\data\\models\\folderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70188990-A188-4E02-B152-6C9C5E197128}|CMSAPI_Frontend\\CMSAPI_Frontend.csproj|solutionrelative:cmsapi_frontend\\data\\models\\folderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{70188990-A188-4E02-B152-6C9C5E197128}|CMSAPI_Frontend\\CMSAPI_Frontend.csproj|c:\\users\\xg47\\documents\\utdanning\\dte2802\\dte2802_prosjekt2\\cmsapi_frontend\\cmsapi_frontend\\components\\pages\\login.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{70188990-A188-4E02-B152-6C9C5E197128}|CMSAPI_Frontend\\CMSAPI_Frontend.csproj|solutionrelative:cmsapi_frontend\\components\\pages\\login.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{70188990-A188-4E02-B152-6C9C5E197128}|CMSAPI_Frontend\\CMSAPI_Frontend.csproj|c:\\users\\xg47\\documents\\utdanning\\dte2802\\dte2802_prosjekt2\\cmsapi_frontend\\cmsapi_frontend\\components\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{70188990-A188-4E02-B152-6C9C5E197128}|CMSAPI_Frontend\\CMSAPI_Frontend.csproj|solutionrelative:cmsapi_frontend\\components\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{70188990-A188-4E02-B152-6C9C5E197128}|CMSAPI_Frontend\\CMSAPI_Frontend.csproj|c:\\users\\xg47\\documents\\utdanning\\dte2802\\dte2802_prosjekt2\\cmsapi_frontend\\cmsapi_frontend\\components\\pages\\error.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{70188990-A188-4E02-B152-6C9C5E197128}|CMSAPI_Frontend\\CMSAPI_Frontend.csproj|solutionrelative:cmsapi_frontend\\components\\pages\\error.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{70188990-A188-4E02-B152-6C9C5E197128}|CMSAPI_Frontend\\CMSAPI_Frontend.csproj|c:\\users\\xg47\\documents\\utdanning\\dte2802\\dte2802_prosjekt2\\cmsapi_frontend\\cmsapi_frontend\\components\\pages\\weather.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{70188990-A188-4E02-B152-6C9C5E197128}|CMSAPI_Frontend\\CMSAPI_Frontend.csproj|solutionrelative:cmsapi_frontend\\components\\pages\\weather.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{70188990-A188-4E02-B152-6C9C5E197128}|CMSAPI_Frontend\\CMSAPI_Frontend.csproj|c:\\users\\xg47\\documents\\utdanning\\dte2802\\dte2802_prosjekt2\\cmsapi_frontend\\cmsapi_frontend\\components\\pages\\logout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{70188990-A188-4E02-B152-6C9C5E197128}|CMSAPI_Frontend\\CMSAPI_Frontend.csproj|solutionrelative:cmsapi_frontend\\components\\pages\\logout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{70188990-A188-4E02-B152-6C9C5E197128}|CMSAPI_Frontend\\CMSAPI_Frontend.csproj|c:\\users\\xg47\\documents\\utdanning\\dte2802\\dte2802_prosjekt2\\cmsapi_frontend\\cmsapi_frontend\\components\\pages\\weather.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{70188990-A188-4E02-B152-6C9C5E197128}|CMSAPI_Frontend\\CMSAPI_Frontend.csproj|solutionrelative:cmsapi_frontend\\components\\pages\\weather.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{70188990-A188-4E02-B152-6C9C5E197128}|CMSAPI_Frontend\\CMSAPI_Frontend.csproj|c:\\users\\xg47\\documents\\utdanning\\dte2802\\dte2802_prosjekt2\\cmsapi_frontend\\cmsapi_frontend\\components\\pages\\login.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{70188990-A188-4E02-B152-6C9C5E197128}|CMSAPI_Frontend\\CMSAPI_Frontend.csproj|solutionrelative:cmsapi_frontend\\components\\pages\\login.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70188990-A188-4E02-B152-6C9C5E197128}|CMSAPI_Frontend\\CMSAPI_Frontend.csproj|c:\\users\\xg47\\documents\\utdanning\\dte2802\\dte2802_prosjekt2\\cmsapi_frontend\\cmsapi_frontend\\components\\pages\\home.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{70188990-A188-4E02-B152-6C9C5E197128}|CMSAPI_Frontend\\CMSAPI_Frontend.csproj|solutionrelative:cmsapi_frontend\\components\\pages\\home.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70188990-A188-4E02-B152-6C9C5E197128}|CMSAPI_Frontend\\CMSAPI_Frontend.csproj|c:\\users\\xg47\\documents\\utdanning\\dte2802\\dte2802_prosjekt2\\cmsapi_frontend\\cmsapi_frontend\\components\\pages\\error.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{70188990-A188-4E02-B152-6C9C5E197128}|CMSAPI_Frontend\\CMSAPI_Frontend.csproj|solutionrelative:cmsapi_frontend\\components\\pages\\error.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{70188990-A188-4E02-B152-6C9C5E197128}|CMSAPI_Frontend\\CMSAPI_Frontend.csproj|c:\\users\\xg47\\documents\\utdanning\\dte2802\\dte2802_prosjekt2\\cmsapi_frontend\\cmsapi_frontend\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -59,10 +67,6 @@
       "RelativeMoniker": "D:0:0:{70188990-A188-4E02-B152-6C9C5E197128}|CMSAPI_Frontend\\CMSAPI_Frontend.csproj|solutionrelative:cmsapi_frontend\\data\\models\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{70188990-A188-4E02-B152-6C9C5E197128}|CMSAPI_Frontend\\CMSAPI_Frontend.csproj|c:\\users\\xg47\\documents\\utdanning\\dte2802\\dte2802_prosjekt2\\cmsapi_frontend\\cmsapi_frontend\\components\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{70188990-A188-4E02-B152-6C9C5E197128}|CMSAPI_Frontend\\CMSAPI_Frontend.csproj|solutionrelative:cmsapi_frontend\\components\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{70188990-A188-4E02-B152-6C9C5E197128}|CMSAPI_Frontend\\CMSAPI_Frontend.csproj|c:\\users\\xg47\\documents\\utdanning\\dte2802\\dte2802_prosjekt2\\cmsapi_frontend\\cmsapi_frontend\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{70188990-A188-4E02-B152-6C9C5E197128}|CMSAPI_Frontend\\CMSAPI_Frontend.csproj|solutionrelative:cmsapi_frontend\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -89,19 +93,23 @@
       "DocumentGroups": [
         {
           "DockedWidth": 202,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Home.razor.css",
-              "DocumentMoniker": "C:\\Users\\xg47\\Documents\\Utdanning\\DTE2802\\DTE2802_Prosjekt2\\CMSAPI_Frontend\\CMSAPI_Frontend\\Components\\Pages\\Home.razor.css",
-              "RelativeDocumentMoniker": "CMSAPI_Frontend\\Components\\Pages\\Home.razor.css",
-              "ToolTip": "C:\\Users\\xg47\\Documents\\Utdanning\\DTE2802\\DTE2802_Prosjekt2\\CMSAPI_Frontend\\CMSAPI_Frontend\\Components\\Pages\\Home.razor.css",
-              "RelativeToolTip": "CMSAPI_Frontend\\Components\\Pages\\Home.razor.css",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-12-05T20:36:58.849Z",
+              "Title": "FolderDto.cs",
+              "DocumentMoniker": "C:\\Users\\xg47\\Documents\\Utdanning\\DTE2802\\DTE2802_Prosjekt2\\CMSAPI_Frontend\\CMSAPI_Frontend\\Data\\Models\\FolderDto.cs",
+              "RelativeDocumentMoniker": "CMSAPI_Frontend\\Data\\Models\\FolderDto.cs",
+              "ToolTip": "C:\\Users\\xg47\\Documents\\Utdanning\\DTE2802\\DTE2802_Prosjekt2\\CMSAPI_Frontend\\CMSAPI_Frontend\\Data\\Models\\FolderDto.cs",
+              "RelativeToolTip": "CMSAPI_Frontend\\Data\\Models\\FolderDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T10:02:14.135Z",
               "EditorCaption": ""
             },
             {
@@ -112,22 +120,9 @@
               "RelativeDocumentMoniker": "CMSAPI_Frontend\\Components\\Pages\\Home.razor",
               "ToolTip": "C:\\Users\\xg47\\Documents\\Utdanning\\DTE2802\\DTE2802_Prosjekt2\\CMSAPI_Frontend\\CMSAPI_Frontend\\Components\\Pages\\Home.razor",
               "RelativeToolTip": "CMSAPI_Frontend\\Components\\Pages\\Home.razor",
-              "ViewState": "AgIAAEQAAAAAAAAAAAAjwFYAAAA8AAAAAAAAAA==",
+              "ViewState": "AgIAADIBAAAAAAAAAAAAAEABAABqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-11-27T12:17:13.622Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Error.razor",
-              "DocumentMoniker": "C:\\Users\\xg47\\Documents\\Utdanning\\DTE2802\\DTE2802_Prosjekt2\\CMSAPI_Frontend\\CMSAPI_Frontend\\Components\\Pages\\Error.razor",
-              "RelativeDocumentMoniker": "CMSAPI_Frontend\\Components\\Pages\\Error.razor",
-              "ToolTip": "C:\\Users\\xg47\\Documents\\Utdanning\\DTE2802\\DTE2802_Prosjekt2\\CMSAPI_Frontend\\CMSAPI_Frontend\\Components\\Pages\\Error.razor",
-              "RelativeToolTip": "CMSAPI_Frontend\\Components\\Pages\\Error.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-05T19:39:53.946Z",
               "EditorCaption": ""
             },
             {
@@ -145,7 +140,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "MainLayout.razor",
               "DocumentMoniker": "C:\\Users\\xg47\\Documents\\Utdanning\\DTE2802\\DTE2802_Prosjekt2\\CMSAPI_Frontend\\CMSAPI_Frontend\\Components\\Layout\\MainLayout.razor",
               "RelativeDocumentMoniker": "CMSAPI_Frontend\\Components\\Layout\\MainLayout.razor",
@@ -153,12 +148,11 @@
               "RelativeToolTip": "CMSAPI_Frontend\\Components\\Layout\\MainLayout.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-02T11:01:41.416Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-02T11:01:41.416Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 14,
               "Title": "JWTResponseDto.cs",
               "DocumentMoniker": "C:\\Users\\xg47\\Documents\\Utdanning\\DTE2802\\DTE2802_Prosjekt2\\CMSAPI_Frontend\\CMSAPI_Frontend\\Data\\Models\\JWTResponseDto.cs",
               "RelativeDocumentMoniker": "CMSAPI_Frontend\\Data\\Models\\JWTResponseDto.cs",
@@ -166,12 +160,11 @@
               "RelativeToolTip": "CMSAPI_Frontend\\Data\\Models\\JWTResponseDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-02T12:01:07.167Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-02T12:01:07.167Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 13,
               "Title": "LoginDto.cs",
               "DocumentMoniker": "C:\\Users\\xg47\\Documents\\Utdanning\\DTE2802\\DTE2802_Prosjekt2\\CMSAPI_Frontend\\CMSAPI_Frontend\\Data\\Models\\LoginDto.cs",
               "RelativeDocumentMoniker": "CMSAPI_Frontend\\Data\\Models\\LoginDto.cs",
@@ -179,12 +172,11 @@
               "RelativeToolTip": "CMSAPI_Frontend\\Data\\Models\\LoginDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-02T11:05:02.078Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-02T11:05:02.078Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "NavMenu.razor",
               "DocumentMoniker": "C:\\Users\\xg47\\Documents\\Utdanning\\DTE2802\\DTE2802_Prosjekt2\\CMSAPI_Frontend\\CMSAPI_Frontend\\Components\\Layout\\NavMenu.razor",
               "RelativeDocumentMoniker": "CMSAPI_Frontend\\Components\\Layout\\NavMenu.razor",
@@ -192,12 +184,11 @@
               "RelativeToolTip": "CMSAPI_Frontend\\Components\\Layout\\NavMenu.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-02T11:01:41.85Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-02T11:01:41.85Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "Weather.razor",
               "DocumentMoniker": "C:\\Users\\xg47\\Documents\\Utdanning\\DTE2802\\DTE2802_Prosjekt2\\CMSAPI_Frontend\\CMSAPI_Frontend\\Components\\Pages\\Weather.razor",
               "RelativeDocumentMoniker": "CMSAPI_Frontend\\Components\\Pages\\Weather.razor",
@@ -210,20 +201,57 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "Login.razor",
               "DocumentMoniker": "C:\\Users\\xg47\\Documents\\Utdanning\\DTE2802\\DTE2802_Prosjekt2\\CMSAPI_Frontend\\CMSAPI_Frontend\\Components\\Pages\\Login.razor",
               "RelativeDocumentMoniker": "CMSAPI_Frontend\\Components\\Pages\\Login.razor",
               "ToolTip": "C:\\Users\\xg47\\Documents\\Utdanning\\DTE2802\\DTE2802_Prosjekt2\\CMSAPI_Frontend\\CMSAPI_Frontend\\Components\\Pages\\Login.razor",
               "RelativeToolTip": "CMSAPI_Frontend\\Components\\Pages\\Login.razor",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBEAAAAEAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-12-02T10:19:39.147Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 2,
+              "Title": "Counter.razor",
+              "DocumentMoniker": "C:\\Users\\xg47\\Documents\\Utdanning\\DTE2802\\DTE2802_Prosjekt2\\CMSAPI_Frontend\\CMSAPI_Frontend\\Components\\Pages\\Counter.razor",
+              "RelativeDocumentMoniker": "CMSAPI_Frontend\\Components\\Pages\\Counter.razor",
+              "ToolTip": "C:\\Users\\xg47\\Documents\\Utdanning\\DTE2802\\DTE2802_Prosjekt2\\CMSAPI_Frontend\\CMSAPI_Frontend\\Components\\Pages\\Counter.razor",
+              "RelativeToolTip": "CMSAPI_Frontend\\Components\\Pages\\Counter.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-02T11:01:29.314Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Error.razor",
+              "DocumentMoniker": "C:\\Users\\xg47\\Documents\\Utdanning\\DTE2802\\DTE2802_Prosjekt2\\CMSAPI_Frontend\\CMSAPI_Frontend\\Components\\Pages\\Error.razor",
+              "RelativeDocumentMoniker": "CMSAPI_Frontend\\Components\\Pages\\Error.razor",
+              "ToolTip": "C:\\Users\\xg47\\Documents\\Utdanning\\DTE2802\\DTE2802_Prosjekt2\\CMSAPI_Frontend\\CMSAPI_Frontend\\Components\\Pages\\Error.razor",
+              "RelativeToolTip": "CMSAPI_Frontend\\Components\\Pages\\Error.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-05T19:39:53.946Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Home.razor.css",
+              "DocumentMoniker": "C:\\Users\\xg47\\Documents\\Utdanning\\DTE2802\\DTE2802_Prosjekt2\\CMSAPI_Frontend\\CMSAPI_Frontend\\Components\\Pages\\Home.razor.css",
+              "RelativeDocumentMoniker": "CMSAPI_Frontend\\Components\\Pages\\Home.razor.css",
+              "ToolTip": "C:\\Users\\xg47\\Documents\\Utdanning\\DTE2802\\DTE2802_Prosjekt2\\CMSAPI_Frontend\\CMSAPI_Frontend\\Components\\Pages\\Home.razor.css",
+              "RelativeToolTip": "CMSAPI_Frontend\\Components\\Pages\\Home.razor.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-12-05T20:36:58.849Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
               "Title": "RegisterDto.cs",
               "DocumentMoniker": "C:\\Users\\xg47\\Documents\\Utdanning\\DTE2802\\DTE2802_Prosjekt2\\CMSAPI_Frontend\\CMSAPI_Frontend\\Data\\Models\\RegisterDto.cs",
               "RelativeDocumentMoniker": "CMSAPI_Frontend\\Data\\Models\\RegisterDto.cs",
@@ -231,25 +259,11 @@
               "RelativeToolTip": "CMSAPI_Frontend\\Data\\Models\\RegisterDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-02T12:00:17.818Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-02T12:00:17.818Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Counter.razor",
-              "DocumentMoniker": "C:\\Users\\xg47\\Documents\\Utdanning\\DTE2802\\DTE2802_Prosjekt2\\CMSAPI_Frontend\\CMSAPI_Frontend\\Components\\Pages\\Counter.razor",
-              "RelativeDocumentMoniker": "CMSAPI_Frontend\\Components\\Pages\\Counter.razor",
-              "ToolTip": "C:\\Users\\xg47\\Documents\\Utdanning\\DTE2802\\DTE2802_Prosjekt2\\CMSAPI_Frontend\\CMSAPI_Frontend\\Components\\Pages\\Counter.razor",
-              "RelativeToolTip": "CMSAPI_Frontend\\Components\\Pages\\Counter.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-02T11:01:29.314Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "_Imports.razor",
               "DocumentMoniker": "C:\\Users\\xg47\\Documents\\Utdanning\\DTE2802\\DTE2802_Prosjekt2\\CMSAPI_Frontend\\CMSAPI_Frontend\\Components\\_Imports.razor",
               "RelativeDocumentMoniker": "CMSAPI_Frontend\\Components\\_Imports.razor",
@@ -257,12 +271,11 @@
               "RelativeToolTip": "CMSAPI_Frontend\\Components\\_Imports.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-02T11:01:19.435Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-02T11:01:19.435Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "App.razor",
               "DocumentMoniker": "C:\\Users\\xg47\\Documents\\Utdanning\\DTE2802\\DTE2802_Prosjekt2\\CMSAPI_Frontend\\CMSAPI_Frontend\\Components\\App.razor",
               "RelativeDocumentMoniker": "CMSAPI_Frontend\\Components\\App.razor",
@@ -270,12 +283,11 @@
               "RelativeToolTip": "CMSAPI_Frontend\\Components\\App.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-02T11:01:17.93Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-02T11:01:17.93Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "Routes.razor",
               "DocumentMoniker": "C:\\Users\\xg47\\Documents\\Utdanning\\DTE2802\\DTE2802_Prosjekt2\\CMSAPI_Frontend\\CMSAPI_Frontend\\Components\\Routes.razor",
               "RelativeDocumentMoniker": "CMSAPI_Frontend\\Components\\Routes.razor",
@@ -283,16 +295,11 @@
               "RelativeToolTip": "CMSAPI_Frontend\\Components\\Routes.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-02T11:01:14.001Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+              "WhenOpened": "2024-12-02T11:01:14.001Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\Users\\xg47\\Documents\\Utdanning\\DTE2802\\DTE2802_Prosjekt2\\CMSAPI_Frontend\\CMSAPI_Frontend\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "CMSAPI_Frontend\\Properties\\launchSettings.json",
@@ -304,7 +311,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\xg47\\Documents\\Utdanning\\DTE2802\\DTE2802_Prosjekt2\\CMSAPI_Frontend\\CMSAPI_Frontend\\Program.cs",
               "RelativeDocumentMoniker": "CMSAPI_Frontend\\Program.cs",
@@ -312,12 +319,11 @@
               "RelativeToolTip": "CMSAPI_Frontend\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-27T12:15:49.528Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-27T12:15:49.528Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "Microsoft.Common.CurrentVersion.targets",
               "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
@@ -325,12 +331,11 @@
               "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
               "ViewState": "AgIAALoUAAAAAAAAAAAMwMkUAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
-              "WhenOpened": "2024-11-30T16:08:29.187Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-30T16:08:29.187Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 19,
               "Title": "appsettings.Development.json",
               "DocumentMoniker": "C:\\Users\\xg47\\Documents\\Utdanning\\DTE2802\\DTE2802_Prosjekt2\\CMSAPI_Frontend\\CMSAPI_Frontend\\appsettings.Development.json",
               "RelativeDocumentMoniker": "CMSAPI_Frontend\\appsettings.Development.json",
@@ -342,7 +347,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 20,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\xg47\\Documents\\Utdanning\\DTE2802\\DTE2802_Prosjekt2\\CMSAPI_Frontend\\CMSAPI_Frontend\\appsettings.json",
               "RelativeDocumentMoniker": "CMSAPI_Frontend\\appsettings.json",
