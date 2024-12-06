@@ -24,8 +24,8 @@ build_property.EnableCodeStyleSeverity =
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xBcHAucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/xg47/Documents/Utdanning/DTE2802/DTE2802_Prosjekt2/CMSAPI_Frontend/CMSAPI_Frontend/Components/Pages/Counter.razor]
-build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xDb3VudGVyLnJhem9y
+[C:/Users/xg47/Documents/Utdanning/DTE2802/DTE2802_Prosjekt2/CMSAPI_Frontend/CMSAPI_Frontend/Components/Pages/Document.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xEb2N1bWVudC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/xg47/Documents/Utdanning/DTE2802/DTE2802_Prosjekt2/CMSAPI_Frontend/CMSAPI_Frontend/Components/Pages/Error.razor]
@@ -40,8 +40,8 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xMb2dvdXQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/xg47/Documents/Utdanning/DTE2802/DTE2802_Prosjekt2/CMSAPI_Frontend/CMSAPI_Frontend/Components/Pages/Weather.razor]
-build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xXZWF0aGVyLnJhem9y
+[C:/Users/xg47/Documents/Utdanning/DTE2802/DTE2802_Prosjekt2/CMSAPI_Frontend/CMSAPI_Frontend/Components/Pages/Register.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xSZWdpc3Rlci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/xg47/Documents/Utdanning/DTE2802/DTE2802_Prosjekt2/CMSAPI_Frontend/CMSAPI_Frontend/Components/Routes.razor]

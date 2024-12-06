@@ -36,17 +36,17 @@
       <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ="}]]]></EndpointProperties>
       <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"449111"},{"Name":"Content-Type","Value":"text/plain"},{"Name":"ETag","Value":"\u0022gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ=\u0022"},{"Name":"Last-Modified","Value":"Tue, 26 Nov 2024 14:09:34 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/CMSAPI_Frontend/CMSAPI_Frontend.5lwqqvf3ou.bundle.scp.css">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\CMSAPI_Frontend.5lwqqvf3ou.bundle.scp.css'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"5lwqqvf3ou"},{"Name":"integrity","Value":"sha256-eQ20aWrVLcRJXAdbZiTAUdtcTbIcmxNerCEME/CPxLE="},{"Name":"label","Value":"_content/CMSAPI_Frontend/CMSAPI_Frontend.bundle.scp.css"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"6145"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022eQ20aWrVLcRJXAdbZiTAUdtcTbIcmxNerCEME/CPxLE=\u0022"},{"Name":"Last-Modified","Value":"Thu, 05 Dec 2024 20:42:38 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/CMSAPI_Frontend/CMSAPI_Frontend.bundle.scp.css">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\CMSAPI_Frontend.5lwqqvf3ou.bundle.scp.css'))</AssetFile>
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\CMSAPI_Frontend.dngj92txh4.bundle.scp.css'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-eQ20aWrVLcRJXAdbZiTAUdtcTbIcmxNerCEME/CPxLE="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"6145"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022eQ20aWrVLcRJXAdbZiTAUdtcTbIcmxNerCEME/CPxLE=\u0022"},{"Name":"Last-Modified","Value":"Thu, 05 Dec 2024 20:42:38 GMT"}]]]></ResponseHeaders>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-9yOaIKUYoArTTX71WoAXBt3gpXnc0xRSsahj4kdvUaE="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"6188"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u00229yOaIKUYoArTTX71WoAXBt3gpXnc0xRSsahj4kdvUaE=\u0022"},{"Name":"Last-Modified","Value":"Fri, 06 Dec 2024 12:56:07 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CMSAPI_Frontend/CMSAPI_Frontend.dngj92txh4.bundle.scp.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\CMSAPI_Frontend.dngj92txh4.bundle.scp.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"dngj92txh4"},{"Name":"integrity","Value":"sha256-9yOaIKUYoArTTX71WoAXBt3gpXnc0xRSsahj4kdvUaE="},{"Name":"label","Value":"_content/CMSAPI_Frontend/CMSAPI_Frontend.bundle.scp.css"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"6188"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u00229yOaIKUYoArTTX71WoAXBt3gpXnc0xRSsahj4kdvUaE=\u0022"},{"Name":"Last-Modified","Value":"Fri, 06 Dec 2024 12:56:07 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/CMSAPI_Frontend/favicon.ifv42okdf2.png">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\favicon.png'))</AssetFile>

@@ -202,7 +202,8 @@ main[b-y2nxrlh5m1] {
     }
 }
 /* _content/CMSAPI_Frontend/Components/Pages/Home.razor.rz.scp.css */
-.childFolderButton[b-9naap7qqf2] {
+/* /Components/Pages/Home.razor.rz.scp.css */
+.childButton[b-9naap7qqf2] {
     background-color: transparent;
     border: none;
     color: rebeccapurple;
@@ -210,3 +211,4 @@ main[b-y2nxrlh5m1] {
 h1[b-9naap7qqf2] {
     color: red;
 }
+

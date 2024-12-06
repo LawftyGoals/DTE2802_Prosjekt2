@@ -6,13 +6,14 @@
 @using Microsoft.AspNetCore.Components.WebAssembly.Authentication
 @using System.Web
 @rendermode InteractiveServer
-@inject IHttpClientFactory ClientFactory
 @inject HttpClient Http
 @inject IJSRuntime JSRuntime
 @inject NavigationManager NavManager
 
 
 <PageTitle>@currentFolder.Name</PageTitle>
+
+<a href="/logout">Logout</a>
 
 <h1>@currentFolder.Name</h1>
 <h4>@currentFolder.Url</h4>
@@ -24,7 +25,6 @@
             <label for="newFolderName">new folder name:</label>
             <input type="text" id="newFolderName" class="form-control" @bind="newFolder.Name" required />
             <br />
-
             <button class="btn btn-primary" type="submit" @onclick="AddFolder" @onclick:preventDefault="true">Add Folder</button>
         </form>
     </div>
@@ -59,7 +59,7 @@
     </div>
 }
 <div>
-    <button>New Document</button> <button @onclick="OpenNewFolder">New Folder</button>
+    <button @onclick="OpenNewFolder">New Folder</button>
 </div>
 
 @if (childFolders.Count > 0)
@@ -67,54 +67,40 @@
     @foreach (var folder in childFolders)
     {
         <div>
-            <button style="background-color: transparent; border: none; color: rebeccapurple;" class="childFolderButton" @onclick="()=>NavigateToFolder(folder)">
+            <button style="background-color: transparent; border: none; color: rebeccapurple;" class="childButton" @onclick="()=>NavigateToFolder(folder)">
                 @folder.Name
             </button>
-            <button @onclick="()=>OpenEditFolder(folder)">
+            <button class="childButton" @onclick="()=>OpenEditFolder(folder)">
                 EDIT
             </button>
-            <button @onclick="()=>OpenDeleteFolder(folder)">
-                TODO: DELETE
+            <button class="childButton" @onclick="()=>OpenDeleteFolder(folder)">
+                DELETE
             </button>
         </div>
     }
 
 }
 
+<br />
+<h4>Documents</h4>
+<a href="/document"><button>New Document</button></a>
 @if (childDocuments.Count > 0)
 {
     @foreach (var document in childDocuments)
     {
-        <div>
-            <button style="background-color: transparent; border: none; color: rebeccapurple;" class="childFolderButton" >
-                @document.Title
-            </button>
-            <button>
-                TODO:EDIT
-            </button>
-            <button>
-                TODO: DELETE
-            </button>
-        </div>
+        <div><button @onclick="()=>OnSelectDocument(document)">@document.Title</button></div>
     }
-
-}
-
-@if (childDocuments.Count > 0)
-{
-    @foreach (var document in childDocuments)
-    {
-        <div><p>@document.Title</p></div>
-    }
+} else {
+    <div>No documents found</div>
 }
 
 
 
 
 @code {
-    public Boolean openNewFolder = false;
-    public Boolean openEditFolder = false;
-    public Boolean openDeleteFolder = false;
+    public bool openNewFolder = false;
+    public bool openEditFolder = false;
+    public bool openDeleteFolder = false;
 
     public string? userToken;
     public string? responseBody;
@@ -151,8 +137,6 @@
 
                 UpdateCurrentFolder(deserializedResponse, "/Root");
 
-
-                var client = ClientFactory.CreateClient();
 
             }
         }
@@ -373,7 +357,7 @@
 
 
 
-    // FOLDER NAVIGATION
+    // NAVIGATION
 
     private async Task NavigateToFolder(NavigatableFolderDto selectedFolder){
         var folders = await GetFolders();
@@ -381,6 +365,13 @@
 
         UpdateCurrentFolder(folders, currentFolder.Url);
 
+    }
+
+    private async Task OnSelectDocument(DocumentDto document){
+
+        await JSRuntime.InvokeVoidAsync("localStorage.setItem", "selectedDocumentId", document.Id);
+
+        NavManager.NavigateTo("/document");
     }
 
 

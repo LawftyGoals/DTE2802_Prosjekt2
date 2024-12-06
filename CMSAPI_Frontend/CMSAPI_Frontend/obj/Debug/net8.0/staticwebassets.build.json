@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "65CvbTb7/XW79lfXNh5qgv3clzXJ8dGxn4lHxBOijHY=",
+  "Hash": "iD0eRDcmtCa2ttkmSQGi8vPQhE+A19r+CE5vZ1+B/44=",
   "Source": "CMSAPI_Frontend",
   "BasePath": "_content/CMSAPI_Frontend",
   "Mode": "Default",
@@ -52,8 +52,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "ScopedCss",
       "AssetTraitValue": "ApplicationBundle",
-      "Fingerprint": "5lwqqvf3ou",
-      "Integrity": "eQ20aWrVLcRJXAdbZiTAUdtcTbIcmxNerCEME/CPxLE=",
+      "Fingerprint": "dngj92txh4",
+      "Integrity": "9yOaIKUYoArTTX71WoAXBt3gpXnc0xRSsahj4kdvUaE=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\xg47\\Documents\\Utdanning\\DTE2802\\DTE2802_Prosjekt2\\CMSAPI_Frontend\\CMSAPI_Frontend\\obj\\Debug\\net8.0\\scopedcss\\bundle\\CMSAPI_Frontend.styles.css"
@@ -73,8 +73,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "ScopedCss",
       "AssetTraitValue": "ProjectBundle",
-      "Fingerprint": "5lwqqvf3ou",
-      "Integrity": "eQ20aWrVLcRJXAdbZiTAUdtcTbIcmxNerCEME/CPxLE=",
+      "Fingerprint": "dngj92txh4",
+      "Integrity": "9yOaIKUYoArTTX71WoAXBt3gpXnc0xRSsahj4kdvUaE=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\xg47\\Documents\\Utdanning\\DTE2802\\DTE2802_Prosjekt2\\CMSAPI_Frontend\\CMSAPI_Frontend\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\CMSAPI_Frontend.bundle.scp.css"
@@ -449,96 +449,6 @@
       ]
     },
     {
-      "Route": "CMSAPI_Frontend.5lwqqvf3ou.bundle.scp.css",
-      "AssetFile": "C:\\Users\\xg47\\Documents\\Utdanning\\DTE2802\\DTE2802_Prosjekt2\\CMSAPI_Frontend\\CMSAPI_Frontend\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\CMSAPI_Frontend.bundle.scp.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "6145"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"eQ20aWrVLcRJXAdbZiTAUdtcTbIcmxNerCEME/CPxLE=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 05 Dec 2024 20:42:38 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "5lwqqvf3ou"
-        },
-        {
-          "Name": "label",
-          "Value": "CMSAPI_Frontend.bundle.scp.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-eQ20aWrVLcRJXAdbZiTAUdtcTbIcmxNerCEME/CPxLE="
-        }
-      ]
-    },
-    {
-      "Route": "CMSAPI_Frontend.5lwqqvf3ou.styles.css",
-      "AssetFile": "C:\\Users\\xg47\\Documents\\Utdanning\\DTE2802\\DTE2802_Prosjekt2\\CMSAPI_Frontend\\CMSAPI_Frontend\\obj\\Debug\\net8.0\\scopedcss\\bundle\\CMSAPI_Frontend.styles.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "6145"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"eQ20aWrVLcRJXAdbZiTAUdtcTbIcmxNerCEME/CPxLE=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 05 Dec 2024 20:42:38 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "5lwqqvf3ou"
-        },
-        {
-          "Name": "label",
-          "Value": "CMSAPI_Frontend.styles.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-eQ20aWrVLcRJXAdbZiTAUdtcTbIcmxNerCEME/CPxLE="
-        }
-      ]
-    },
-    {
       "Route": "CMSAPI_Frontend.bundle.scp.css",
       "AssetFile": "C:\\Users\\xg47\\Documents\\Utdanning\\DTE2802\\DTE2802_Prosjekt2\\CMSAPI_Frontend\\CMSAPI_Frontend\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\CMSAPI_Frontend.bundle.scp.css",
       "Selectors": [],
@@ -549,7 +459,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "6145"
+          "Value": "6188"
         },
         {
           "Name": "Content-Type",
@@ -557,11 +467,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"eQ20aWrVLcRJXAdbZiTAUdtcTbIcmxNerCEME/CPxLE=\""
+          "Value": "\"9yOaIKUYoArTTX71WoAXBt3gpXnc0xRSsahj4kdvUaE=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 05 Dec 2024 20:42:38 GMT"
+          "Value": "Fri, 06 Dec 2024 12:56:07 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -571,7 +481,97 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-eQ20aWrVLcRJXAdbZiTAUdtcTbIcmxNerCEME/CPxLE="
+          "Value": "sha256-9yOaIKUYoArTTX71WoAXBt3gpXnc0xRSsahj4kdvUaE="
+        }
+      ]
+    },
+    {
+      "Route": "CMSAPI_Frontend.dngj92txh4.bundle.scp.css",
+      "AssetFile": "C:\\Users\\xg47\\Documents\\Utdanning\\DTE2802\\DTE2802_Prosjekt2\\CMSAPI_Frontend\\CMSAPI_Frontend\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\CMSAPI_Frontend.bundle.scp.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6188"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9yOaIKUYoArTTX71WoAXBt3gpXnc0xRSsahj4kdvUaE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 06 Dec 2024 12:56:07 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "dngj92txh4"
+        },
+        {
+          "Name": "label",
+          "Value": "CMSAPI_Frontend.bundle.scp.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-9yOaIKUYoArTTX71WoAXBt3gpXnc0xRSsahj4kdvUaE="
+        }
+      ]
+    },
+    {
+      "Route": "CMSAPI_Frontend.dngj92txh4.styles.css",
+      "AssetFile": "C:\\Users\\xg47\\Documents\\Utdanning\\DTE2802\\DTE2802_Prosjekt2\\CMSAPI_Frontend\\CMSAPI_Frontend\\obj\\Debug\\net8.0\\scopedcss\\bundle\\CMSAPI_Frontend.styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6188"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9yOaIKUYoArTTX71WoAXBt3gpXnc0xRSsahj4kdvUaE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 06 Dec 2024 12:56:07 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "dngj92txh4"
+        },
+        {
+          "Name": "label",
+          "Value": "CMSAPI_Frontend.styles.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-9yOaIKUYoArTTX71WoAXBt3gpXnc0xRSsahj4kdvUaE="
         }
       ]
     },
@@ -586,7 +586,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "6145"
+          "Value": "6188"
         },
         {
           "Name": "Content-Type",
@@ -594,11 +594,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"eQ20aWrVLcRJXAdbZiTAUdtcTbIcmxNerCEME/CPxLE=\""
+          "Value": "\"9yOaIKUYoArTTX71WoAXBt3gpXnc0xRSsahj4kdvUaE=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 05 Dec 2024 20:42:38 GMT"
+          "Value": "Fri, 06 Dec 2024 12:56:07 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -608,7 +608,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-eQ20aWrVLcRJXAdbZiTAUdtcTbIcmxNerCEME/CPxLE="
+          "Value": "sha256-9yOaIKUYoArTTX71WoAXBt3gpXnc0xRSsahj4kdvUaE="
         }
       ]
     },
